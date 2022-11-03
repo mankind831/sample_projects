@@ -1,0 +1,10 @@
+Parameters Description
+
+Function
+-Delete specific data from the table
+-It will return error when there is a missing in the parameter, wrong hash key or taking long on retreiving the data
+
+Return
+-CODE 200 - return success after task completed
+-CODE 400 - return error message 'Missing Paramters' or 'Wrong Hash Key'
+-CODE 408 - return error message 'Taking long on retreiving the data'

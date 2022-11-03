@@ -1,0 +1,13 @@
+Parameters Description
+-typeID - unique ID for vehicle type
+-vehicleType - vehicle type of client car
+-price - price of specific vehicle type
+
+Function
+-System will add new data or update existing data
+-It will return error when there is a missing in the parameter, wrong hash key or taking long on retreiving the data
+
+Return
+-CODE 200 - return 'success' if the task is completed
+-CODE 400 - return error message 'Missing Paramters' or 'Wrong Hash Key'
+-CODE 408 - return error message 'Taking long on retreiving the data'

@@ -1,0 +1,17 @@
+Parameters Description
+-slot - slot no. of the parking slot
+-gateway - 'A','B' or 'C' entrance of the client
+-plateNo - clients plate no.
+-typeID -  unique ID associated with VehicleType table
+-dateTimeIn - Date and Time CheckIn of the Client
+-transNo - unique ID associated with ParkingTransacion table
+-status - status of parking slot 'Vacant' or 'Occupied'
+
+Function
+-System will add new data or update existing data
+-It will return error when there is a missing in the parameter, wrong hash key or taking long on retreiving the data
+
+Return
+-CODE 200 - return 'success' if the task is completed
+-CODE 400 - return error message 'Missing Paramters' or 'Wrong Hash Key'
+-CODE 408 - return error message 'Taking long on retreiving the data'

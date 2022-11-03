@@ -1,0 +1,15 @@
+Parameters Description
+-transNo - unique ID per transaction
+-plateNo - plate no. of the client
+-dateTimeIn - date and time checkin of the client
+-dateTimeOut - date and time checkout of the client
+-totalBill - computed total bill of the client
+
+Function
+-System will add new data or update existing data
+-It will return error when there is a missing in the parameter, wrong hash key or taking long on retreiving the data
+
+Return
+-CODE 200 - return 'success' if the task is completed
+-CODE 400 - return error message 'Missing Paramters' or 'Wrong Hash Key'
+-CODE 408 - return error message 'Taking long on retreiving the data'

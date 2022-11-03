@@ -1,0 +1,10 @@
+Parameters Description
+
+Function
+-Retrieve all data from database
+-It will return error when there is a missing in the parameter or taking long on retreiving the data
+
+Return
+-CODE 200 - return list
+-CODE 400 - return error message 'Missing Paramters'
+-CODE 408 - return error message 'Taking long on retreiving the data'
