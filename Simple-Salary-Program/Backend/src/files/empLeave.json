@@ -1,0 +1,23 @@
+ [
+    {
+        "empID":"09242022-1",
+        "reason":"Stomach Ache",
+        "dateStarted":"09/21/2022",
+        "dateEnded":"09/23/2022",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "reason":"Fever",
+        "dateStarted":"09/05/2022",
+        "dateEnded":"09/05/2022",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "reason":"Head Ache",
+        "dateStarted":"09/29/2022",
+        "dateEnded":"09/29/2022",
+        "status":"Approved"
+    }
+]

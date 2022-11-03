@@ -1,0 +1,79 @@
+[
+    {
+        "empID":"09242022-1",
+        "date":"09/01/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/02/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/05/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/07/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/09/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/13/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/14/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/16/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/20/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/2/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    },
+    {
+        "empID":"09242022-1",
+        "date":"09/30/22",
+        "timeStarted":"06:00:00 PM",
+        "timeEnded":"08:00:00 PM",
+        "status":"Approved"
+    }
+]
